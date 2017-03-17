@@ -1,0 +1,5 @@
+<root>
+  <item name='android.app.Activity android.content.Intent getIntent()'>
+    <annotation name='android.support.annotation.NonNull' />
+  </item>
+</root>

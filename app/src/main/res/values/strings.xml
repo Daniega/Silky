@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JoinUs</string>
+    <string name="facebook_app_id">158679621205856</string>
+    <string name="server_client_id">121907053653-kiuu045joggljvp03tsh97hbs67d6mvd.apps.googleusercontent.com</string>
+
+    <string-array name="busType">
+        <item> סוג העסק</item>
+        <item>עיצוב שיער</item>
+        <item>בניית ציפורנים</item>
+        <item>מקעקע</item>
+        <item>מאפר</item>
+    </string-array>
+    <string name="title_activity_google_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

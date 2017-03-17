@@ -1,0 +1,5 @@
+<root>
+  <item name='android.Manifest.permission GET_ACCOUNTS'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>

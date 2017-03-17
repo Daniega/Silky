@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "121907053653",
+    "firebase_url": "https://joinus-2fc04.firebaseio.com",
+    "project_id": "joinus-2fc04",
+    "storage_bucket": "joinus-2fc04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121907053653:android:d34822bc58c91904",
+        "android_client_info": {
+          "package_name": "joinus.joinus.com.joinus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121907053653-sesnkiammh4g5ec53o5o2un74t5sem7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joinus.joinus.com.joinus",
+            "certificate_hash": "3C675DAECD03B9587426D7EA769D193B4A1032FD"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO058ZCkMfOlcaCZTddPhXT2399C-grKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
