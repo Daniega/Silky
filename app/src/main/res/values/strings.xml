@@ -13,5 +13,13 @@
     </string-array>
     <string name="title_activity_google_map">Map</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_activity_business_page">BusinessPageActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "Welcome to your Business preview page,\n"
+        "soon we'll start editing it.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
 
 </resources>

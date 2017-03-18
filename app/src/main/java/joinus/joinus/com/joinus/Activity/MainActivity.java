@@ -39,7 +39,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-
+import android.support.design.widget.CollapsingToolbarLayout;
 import joinus.joinus.com.joinus.Class.GoogleSingleTon;
 import joinus.joinus.com.joinus.Class.Management;
 import joinus.joinus.com.joinus.Fragment.RegisterFragment;

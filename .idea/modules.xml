@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JoinUsdani.iml" filepath="$PROJECT_DIR$/JoinUsdani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Silky.iml" filepath="$PROJECT_DIR$/Silky.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
